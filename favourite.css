@@ -1,0 +1,32 @@
+/* logseq-bear-theme from rcvd */
+/* @import url('https://rcvd.github.io/logseq-bear-theme/bear.css');
+
+/* logseq-dev-theme from pengx17, fork from BlurBrain */
+@import url("https://cdn.jsdelivr.net/gh/BlurBrain/logseq-dev-theme@latest/custom.css");
+
+/* logseq-columns-mod from cannibalox, fork from retiarylime */
+/* @import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-dark-hpx@898a9921661e67017de54c68c919bd5911e6b22d/logseq-columns-mod.css");
+
+/* logseq-colorful-indent from cannibalox, fork from retiarylime */
+@import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-dark-hpx@f67232b997309777a58f650e527bc85d10aca76d/logseq-colorful-indents.css");
+
+/* logseq-numbered-list from cannibalox, fork from retiarylime */
+@import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-dark-hpx@e876cccbf2bd4e871ccb7bbed08bb40895700197/logseq-numbered-list_0.3.css");
+
+/* logseq-highlighter from DenaroCF, fork from retiarylime */
+@import url("https://cdn.jsdelivr.net/gh/retiarylime/Highlighters-for-Logseq@627c280ead31aa3342efaaa72503da5f7a49474d/src/logseq-highlighter.css");
+
+/* logseq-unboard from retiarylime */
+/* @import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-dark-hpx@48435e44a203a2c9863869bd5496124455a5452c/logseq-unboard.css");
+
+/* logseq-kanban_tag inspired by cannibalox */
+@import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-dark-hpx@8f5d65f746f277d63a4918ebecc803e40b895f09/logseq-kanban_tag.css");
+  
+.white-theme,
+html[data-theme="light"] {
+--ls-primary-background-color: #fffdf9 !important;
+}
+
+.cloze-revealed {
+font-weight: bold;
+}
