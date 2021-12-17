@@ -12,9 +12,16 @@
 
 @font-face {
       font-family: 'avenir next';
+      src: local('Avenir Next Regular'), local('AvenirNext-Regular'),
+          url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-themes@main/avenir-next/AvenirNext-Regular-08.ttf");
+    font-weight: normal;
+      }
+
+@font-face {
+      font-family: 'avenir next';
       src: local('Avenir Next DemiBold'), local('AvenirNext-DemiBold'),
           url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-themes@main/avenir-next/AvenirNext-DemiBold-03.ttf");
-    font-weight: bold;
+    font-weight: 500;
       }
 
 @font-face {
@@ -51,12 +58,6 @@
       font-family: 'Avenir Next Medium Italic';
       src: local('Avenir Next Medium Italic'), local('AvenirNext-Medium-Italic'),
           url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-themes@main/avenir-next/AvenirNext-MediumItalic-07.ttf");
-      }
-
-@font-face {
-      font-family: 'avenir next';
-      src: local('Avenir Next Regular'), local('AvenirNext-Regular'),
-          url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-themes@main/avenir-next/AvenirNext-Regular-08.ttf");
       }
 
 @font-face {
