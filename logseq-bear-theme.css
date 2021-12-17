@@ -1,9 +1,7 @@
 /* logseq-bear-theme from rcvd */
-/*<<<<<<< HEAD
 @import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-bear-theme@f737f16f8dee9fb737905b43ff18485793699aaa/bear.css");
-=======*/
-@import url('https://rcvd.github.io/logseq-bear-theme/bear.css');
-/*>>>>>>> parent of c0df22d (Update logseq-bear-theme.css)*/
+/*@import url('https://rcvd.github.io/logseq-bear-theme/bear.css');*/
+
 
 /* logseq-kanban_tag inspired by cannibalox */
 @import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-dark-hpx@8f5d65f746f277d63a4918ebecc803e40b895f09/logseq-kanban_tag.css");
