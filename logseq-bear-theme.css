@@ -5,8 +5,8 @@
 @import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-themes@3d646017b237e0a3ea38db413b519476f5dad185/avenir-fontface.css");
 
 /* logseq-bear-theme from rcvd */
-@import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-bear-theme@f737f16f8dee9fb737905b43ff18485793699aaa/bear.css");
-/*@import url('https://rcvd.github.io/logseq-bear-theme/bear.css');*/
+/* @import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-bear-theme@f737f16f8dee9fb737905b43ff18485793699aaa/bear.css"); */
+@import url('https://rcvd.github.io/logseq-bear-theme/bear.css');
 
 /* logseq-bear-numlist fork from retiarylime */
 @import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-bear-theme@9b05951c43db7cb5fcb35280654610c6a15d126a/logseq-bear-numlist.css");
