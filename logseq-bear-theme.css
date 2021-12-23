@@ -6,7 +6,8 @@
 /* @import url('https://rcvd.github.io/logseq-bear-theme/bear.css'); */
 
 /* logseq-bear-numlist fork from retiarylime */
-@import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-bear-theme@9b05951c43db7cb5fcb35280654610c6a15d126a/logseq-bear-numlist.css");
+/* @import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-bear-theme@9b05951c43db7cb5fcb35280654610c6a15d126a/logseq-bear-numlist.css"); */
+@import url("https://cdn.jsdelivr.net/gh/retiarylime/logseq-bear-theme@0109100791a82f3bd679aab8b47c4c7d79623485/logseq-bear-numlist.css")
 
 .cloze-revealed {
 font-weight: bold;
